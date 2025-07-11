@@ -265,3 +265,26 @@ border-radius:10px;
 .get-in-touch-form label {
   font-size: 18px;
 }
+footer ul{
+  display: flex;
+  align-items: center;
+
+}
+footer .footer-title{
+  font-size: 100px;
+  font-weight: black;
+  line-height: auto;
+}
+footer{
+ text-align: center;
+ background-color: #FFFFFF;
+ width: 1440px;
+ height: 428px;
+ padding: 104px 455px 103px 454px;
+}
+.footer-subtitle{
+  font-size: 16px;
+  color: #8987A1;
+  font-weight: 400;
+  line-height: 150%;
+}
